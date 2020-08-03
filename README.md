@@ -6,7 +6,7 @@ JDK 8 and Maven 4
 
 ## Installing and running:
 
-Please note that Server must be running in same machine, otherwise you should change the server Ip address inside of project folder "/resources/application.properties".
+Please note that Server must be running in same machine, otherwise you should change the server Ip address inside of project folder "/src/main/resources/application.properties".
 
 Steps:
 1. Clone this project to your server. 
