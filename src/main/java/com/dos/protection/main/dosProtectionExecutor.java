@@ -8,7 +8,6 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import sun.util.resources.cldr.pl.CalendarData_pl_PL;
 
 import java.io.IOException;
 
